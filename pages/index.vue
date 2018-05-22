@@ -16,10 +16,7 @@
           href="https://docs.google.com/document/d/141XpVpWjHGN_F1DALZi77EVCl3PpdPMhIjaCkNnTf98/edit"
           target="_blank"
           class="button--green">daily log</a>
-        <a
-          href="https://docs.google.com/document/d/141XpVpWjHGN_F1DALZi77EVCl3PpdPMhIjaCkNnTf98/edit"
-          target="_blank"
-          class="button--grey">GitHub</a>
+
       </div>
     </div>
   </section>
