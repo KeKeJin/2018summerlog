@@ -1,9 +1,10 @@
 {
-  "name": "2018summerlog",
+  "name": "2018-summer-log",
   "version": "1.0.0",
   "description": "hmc 2018 summer cs startup log",
   "author": "startupteam2018",
   "private": true,
+  "main": "index.vue",
   "scripts": {
     "dev": "nuxt",
     "build": "nuxt build",
